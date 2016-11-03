@@ -1,0 +1,690 @@
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Owin.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\WebGrease.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+c:\users\mert\documents\visual studio 2015\Projects\Ayakkabi_Projesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Yedekleme\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Ayakkabi_Projesi_Yedek2-Tasarım2\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\Yedekleme\TasarimSon\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\thechosenone\Desktop\Proje\Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Downloads\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\AyakkabiProjesi_v2\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Owin.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\WebGrease.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+C:\Users\Mert\Desktop\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\csc.exe
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Collections.Immutable.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\vbc.exe
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\roslyn\VBCSCompiler.exe.config
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll.config
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Ayakkabi_Projesi.pdb
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Web.Infrastructure.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Owin.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\WebGrease.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Helpers.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Mvc.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Optimization.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.Razor.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Deployment.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\System.Web.WebPages.Razor.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Antlr3.Runtime.pdb
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Newtonsoft.Json.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\EntityFramework.SqlServer.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Google.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.csprojResolveAssemblyReference.cache
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.dll
+E:\Computer Engineering\BAM_Proje\AyakkabiProjesi\Ayakkabi_Projesi\obj\Debug\Ayakkabi_Projesi.pdb

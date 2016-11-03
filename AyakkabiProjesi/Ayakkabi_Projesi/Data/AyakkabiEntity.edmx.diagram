@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5e93d958635e4a0fbf0a2c2645a8500a" Name="Diagram1">
+        <EntityTypeShape EntityType="ayakkabiModel.AltKategori" Width="1.5" PointX="3" PointY="4.5" />
+        <EntityTypeShape EntityType="ayakkabiModel.Ayakkabi" Width="1.5" PointX="3" PointY="7.125" />
+        <EntityTypeShape EntityType="ayakkabiModel.AyakkabiNumara" Width="1.5" PointX="8.25" PointY="8.125" />
+        <EntityTypeShape EntityType="ayakkabiModel.Iletisim" Width="1.5" PointX="5.75" PointY="0.875" />
+        <EntityTypeShape EntityType="ayakkabiModel.Indirim" Width="1.5" PointX="5.25" PointY="10.25" />
+        <EntityTypeShape EntityType="ayakkabiModel.Kategori" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="ayakkabiModel.Kullanici" Width="1.5" PointX="3" PointY="0.75" />
+        <EntityTypeShape EntityType="ayakkabiModel.Numara" Width="1.5" PointX="6" PointY="4.375" />
+        <EntityTypeShape EntityType="ayakkabiModel.Onerilenler" Width="1.5" PointX="5.25" PointY="15.75" />
+        <EntityTypeShape EntityType="ayakkabiModel.Sipari" Width="1.5" PointX="5.25" PointY="7" />
+        <EntityTypeShape EntityType="ayakkabiModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.875" />
+        <EntityTypeShape EntityType="ayakkabiModel.Slider" Width="1.5" PointX="8.75" PointY="3.875" />
+        <AssociationConnector Association="ayakkabiModel.FK_AltKategori_Kategori" />
+        <AssociationConnector Association="ayakkabiModel.FK_Ayakkabi_Kategori" />
+        <AssociationConnector Association="ayakkabiModel.FK_AyakkabiNumara_Ayakkabi" />
+        <AssociationConnector Association="ayakkabiModel.FK_Indirim_Ayakkabi" />
+        <AssociationConnector Association="ayakkabiModel.FK_Onerilenler_Ayakkabi" />
+        <AssociationConnector Association="ayakkabiModel.FK_Siparis_Ayakkabi" />
+        <AssociationConnector Association="ayakkabiModel.FK_AyakkabiNumara_Numara" />
+        <AssociationConnector Association="ayakkabiModel.FK_Siparis_Kullanici" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

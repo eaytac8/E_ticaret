@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ayakkabiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AltKategori">
+    <Key>
+      <PropertyRef Name="AltKategoriID" />
+    </Key>
+    <Property Name="AltKategoriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AltKategoriAd" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="KategoriID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ayakkabi">
+    <Key>
+      <PropertyRef Name="AyakkabiID" />
+    </Key>
+    <Property Name="AyakkabiID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Marka" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="KategoriID" Type="int" Nullable="false" />
+    <Property Name="Fiyat" Type="int" Nullable="false" />
+    <Property Name="Resimyolu" Type="nvarchar" MaxLength="100" />
+    <Property Name="Renk" Type="nvarchar" MaxLength="50" />
+    <Property Name="Malzeme" Type="nvarchar" MaxLength="50" />
+    <Property Name="Baglamasekli" Type="nvarchar" MaxLength="50" />
+    <Property Name="Taksitlifiyat" Type="int" />
+    <Property Name="Sezon" Type="nvarchar" MaxLength="50" />
+    <Property Name="AltKategoriID" Type="int" />
+  </EntityType>
+  <EntityType Name="AyakkabiNumara">
+    <Key>
+      <PropertyRef Name="AyakkabiNumaraID" />
+    </Key>
+    <Property Name="AyakkabiNumaraID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AyakkabiID" Type="int" Nullable="false" />
+    <Property Name="NumaraID" Type="int" Nullable="false" />
+    <Property Name="Stok" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Iletisim">
+    <Key>
+      <PropertyRef Name="IletisimID" />
+    </Key>
+    <Property Name="IletisimID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Mail" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Tel" Type="nchar" MaxLength="17" Nullable="false" />
+    <Property Name="Mesaj" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Indirim">
+    <Key>
+      <PropertyRef Name="IndirimID" />
+    </Key>
+    <Property Name="IndirimID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AyakkabiID" Type="int" Nullable="false" />
+    <Property Name="IndirimOrani" Type="int" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="KategoriID" />
+    </Key>
+    <Property Name="KategoriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriAd" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="int" Nullable="false" />
+    <Property Name="KullaniciAd" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="BankaAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Numara">
+    <Key>
+      <PropertyRef Name="NumaraID" />
+    </Key>
+    <Property Name="NumaraID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Numara" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Onerilenler">
+    <Key>
+      <PropertyRef Name="OnerilenlerID" />
+    </Key>
+    <Property Name="OnerilenlerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AyakkabiID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Siparis">
+    <Key>
+      <PropertyRef Name="SiparisID" />
+    </Key>
+    <Property Name="SiparisID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AyakkabiID" Type="int" Nullable="false" />
+    <Property Name="Adet" Type="int" Nullable="false" />
+    <Property Name="SiparisTarih" Type="date" Nullable="false" />
+    <Property Name="KullaniciID" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ayakkabi.dbo.Slider' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Slider">
+    <Key>
+      <PropertyRef Name="SliderID" />
+    </Key>
+    <Property Name="SliderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Resimyolu" Type="nvarchar" MaxLength="250" />
+    <Property Name="Aciklama" Type="nvarchar" MaxLength="70" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_AltKategori_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="1" />
+    <End Role="AltKategori" Type="Self.AltKategori" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="AltKategori">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ayakkabi_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="1" />
+    <End Role="Ayakkabi" Type="Self.Ayakkabi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="Ayakkabi">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AyakkabiNumara_Ayakkabi">
+    <End Role="Ayakkabi" Type="Self.Ayakkabi" Multiplicity="1" />
+    <End Role="AyakkabiNumara" Type="Self.AyakkabiNumara" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="AyakkabiNumara">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AyakkabiNumara_Numara">
+    <End Role="Numara" Type="Self.Numara" Multiplicity="1" />
+    <End Role="AyakkabiNumara" Type="Self.AyakkabiNumara" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Numara">
+        <PropertyRef Name="NumaraID" />
+      </Principal>
+      <Dependent Role="AyakkabiNumara">
+        <PropertyRef Name="NumaraID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Indirim_Ayakkabi">
+    <End Role="Ayakkabi" Type="Self.Ayakkabi" Multiplicity="1" />
+    <End Role="Indirim" Type="Self.Indirim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="Indirim">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Onerilenler_Ayakkabi">
+    <End Role="Ayakkabi" Type="Self.Ayakkabi" Multiplicity="1" />
+    <End Role="Onerilenler" Type="Self.Onerilenler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="Onerilenler">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparis_Ayakkabi">
+    <End Role="Ayakkabi" Type="Self.Ayakkabi" Multiplicity="1" />
+    <End Role="Siparis" Type="Self.Siparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparis_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="Siparis" Type="Self.Siparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="KullaniciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ayakkabiModelStoreContainer">
+    <EntitySet Name="AltKategori" EntityType="Self.AltKategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ayakkabi" EntityType="Self.Ayakkabi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AyakkabiNumara" EntityType="Self.AyakkabiNumara" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Iletisim" EntityType="Self.Iletisim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Indirim" EntityType="Self.Indirim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Numara" EntityType="Self.Numara" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Onerilenler" EntityType="Self.Onerilenler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Siparis" EntityType="Self.Siparis" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Slider" EntityType="Self.Slider" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Slider].[SliderID] AS [SliderID], 
+    [Slider].[Resimyolu] AS [Resimyolu], 
+    [Slider].[Aciklama] AS [Aciklama]
+    FROM [dbo].[Slider] AS [Slider]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_AltKategori_Kategori" Association="Self.FK_AltKategori_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="AltKategori" EntitySet="AltKategori" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ayakkabi_Kategori" Association="Self.FK_Ayakkabi_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Ayakkabi" EntitySet="Ayakkabi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AyakkabiNumara_Ayakkabi" Association="Self.FK_AyakkabiNumara_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabi" />
+      <End Role="AyakkabiNumara" EntitySet="AyakkabiNumara" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AyakkabiNumara_Numara" Association="Self.FK_AyakkabiNumara_Numara">
+      <End Role="Numara" EntitySet="Numara" />
+      <End Role="AyakkabiNumara" EntitySet="AyakkabiNumara" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Indirim_Ayakkabi" Association="Self.FK_Indirim_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabi" />
+      <End Role="Indirim" EntitySet="Indirim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Onerilenler_Ayakkabi" Association="Self.FK_Onerilenler_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabi" />
+      <End Role="Onerilenler" EntitySet="Onerilenler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparis_Ayakkabi" Association="Self.FK_Siparis_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabi" />
+      <End Role="Siparis" EntitySet="Siparis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparis_Kullanici" Association="Self.FK_Siparis_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Siparis" EntitySet="Siparis" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

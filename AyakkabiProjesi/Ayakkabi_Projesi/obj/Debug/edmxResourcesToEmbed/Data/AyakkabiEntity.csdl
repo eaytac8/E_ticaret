@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ayakkabiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ayakkabiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AltKategoris" EntityType="ayakkabiModel.AltKategori" />
+    <EntitySet Name="Ayakkabis" EntityType="ayakkabiModel.Ayakkabi" />
+    <EntitySet Name="AyakkabiNumaras" EntityType="ayakkabiModel.AyakkabiNumara" />
+    <EntitySet Name="Iletisims" EntityType="ayakkabiModel.Iletisim" />
+    <EntitySet Name="Indirims" EntityType="ayakkabiModel.Indirim" />
+    <EntitySet Name="Kategoris" EntityType="ayakkabiModel.Kategori" />
+    <EntitySet Name="Kullanicis" EntityType="ayakkabiModel.Kullanici" />
+    <EntitySet Name="Numaras" EntityType="ayakkabiModel.Numara" />
+    <EntitySet Name="Onerilenlers" EntityType="ayakkabiModel.Onerilenler" />
+    <EntitySet Name="Siparis" EntityType="ayakkabiModel.Sipari" />
+    <EntitySet Name="sysdiagrams" EntityType="ayakkabiModel.sysdiagram" />
+    <EntitySet Name="Sliders" EntityType="ayakkabiModel.Slider" />
+    <AssociationSet Name="FK_AltKategori_Kategori" Association="ayakkabiModel.FK_AltKategori_Kategori">
+      <End Role="Kategori" EntitySet="Kategoris" />
+      <End Role="AltKategori" EntitySet="AltKategoris" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ayakkabi_Kategori" Association="ayakkabiModel.FK_Ayakkabi_Kategori">
+      <End Role="Kategori" EntitySet="Kategoris" />
+      <End Role="Ayakkabi" EntitySet="Ayakkabis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AyakkabiNumara_Ayakkabi" Association="ayakkabiModel.FK_AyakkabiNumara_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabis" />
+      <End Role="AyakkabiNumara" EntitySet="AyakkabiNumaras" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Indirim_Ayakkabi" Association="ayakkabiModel.FK_Indirim_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabis" />
+      <End Role="Indirim" EntitySet="Indirims" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Onerilenler_Ayakkabi" Association="ayakkabiModel.FK_Onerilenler_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabis" />
+      <End Role="Onerilenler" EntitySet="Onerilenlers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparis_Ayakkabi" Association="ayakkabiModel.FK_Siparis_Ayakkabi">
+      <End Role="Ayakkabi" EntitySet="Ayakkabis" />
+      <End Role="Sipari" EntitySet="Siparis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AyakkabiNumara_Numara" Association="ayakkabiModel.FK_AyakkabiNumara_Numara">
+      <End Role="Numara" EntitySet="Numaras" />
+      <End Role="AyakkabiNumara" EntitySet="AyakkabiNumaras" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparis_Kullanici" Association="ayakkabiModel.FK_Siparis_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanicis" />
+      <End Role="Sipari" EntitySet="Siparis" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="AltKategori">
+    <Key>
+      <PropertyRef Name="AltKategoriID" />
+    </Key>
+    <Property Name="AltKategoriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AltKategoriAd" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KategoriID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kategori" Relationship="ayakkabiModel.FK_AltKategori_Kategori" FromRole="AltKategori" ToRole="Kategori" />
+  </EntityType>
+  <EntityType Name="Ayakkabi">
+    <Key>
+      <PropertyRef Name="AyakkabiID" />
+    </Key>
+    <Property Name="AyakkabiID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Marka" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Model" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KategoriID" Type="Int32" Nullable="false" />
+    <Property Name="Fiyat" Type="Int32" Nullable="false" />
+    <Property Name="Resimyolu" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Renk" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Malzeme" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Baglamasekli" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Taksitlifiyat" Type="Int32" />
+    <Property Name="Sezon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AltKategoriID" Type="Int32" />
+    <NavigationProperty Name="Kategori" Relationship="ayakkabiModel.FK_Ayakkabi_Kategori" FromRole="Ayakkabi" ToRole="Kategori" />
+    <NavigationProperty Name="AyakkabiNumaras" Relationship="ayakkabiModel.FK_AyakkabiNumara_Ayakkabi" FromRole="Ayakkabi" ToRole="AyakkabiNumara" />
+    <NavigationProperty Name="Indirims" Relationship="ayakkabiModel.FK_Indirim_Ayakkabi" FromRole="Ayakkabi" ToRole="Indirim" />
+    <NavigationProperty Name="Onerilenlers" Relationship="ayakkabiModel.FK_Onerilenler_Ayakkabi" FromRole="Ayakkabi" ToRole="Onerilenler" />
+    <NavigationProperty Name="Siparis" Relationship="ayakkabiModel.FK_Siparis_Ayakkabi" FromRole="Ayakkabi" ToRole="Sipari" />
+  </EntityType>
+  <EntityType Name="AyakkabiNumara">
+    <Key>
+      <PropertyRef Name="AyakkabiNumaraID" />
+    </Key>
+    <Property Name="AyakkabiNumaraID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AyakkabiID" Type="Int32" Nullable="false" />
+    <Property Name="NumaraID" Type="Int32" Nullable="false" />
+    <Property Name="Stok" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Ayakkabi" Relationship="ayakkabiModel.FK_AyakkabiNumara_Ayakkabi" FromRole="AyakkabiNumara" ToRole="Ayakkabi" />
+    <NavigationProperty Name="Numara" Relationship="ayakkabiModel.FK_AyakkabiNumara_Numara" FromRole="AyakkabiNumara" ToRole="Numara" />
+  </EntityType>
+  <EntityType Name="Iletisim">
+    <Key>
+      <PropertyRef Name="IletisimID" />
+    </Key>
+    <Property Name="IletisimID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Tel" Type="String" Nullable="false" MaxLength="17" FixedLength="true" Unicode="true" />
+    <Property Name="Mesaj" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Indirim">
+    <Key>
+      <PropertyRef Name="IndirimID" />
+    </Key>
+    <Property Name="IndirimID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AyakkabiID" Type="Int32" Nullable="false" />
+    <Property Name="IndirimOrani" Type="Int32" />
+    <NavigationProperty Name="Ayakkabi" Relationship="ayakkabiModel.FK_Indirim_Ayakkabi" FromRole="Indirim" ToRole="Ayakkabi" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="KategoriID" />
+    </Key>
+    <Property Name="KategoriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAd" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="AltKategoris" Relationship="ayakkabiModel.FK_AltKategori_Kategori" FromRole="Kategori" ToRole="AltKategori" />
+    <NavigationProperty Name="Ayakkabis" Relationship="ayakkabiModel.FK_Ayakkabi_Kategori" FromRole="Kategori" ToRole="Ayakkabi" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" />
+    <Property Name="KullaniciAd" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sifre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Soyad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Adres" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BankaAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Siparis" Relationship="ayakkabiModel.FK_Siparis_Kullanici" FromRole="Kullanici" ToRole="Sipari" />
+  </EntityType>
+  <EntityType Name="Numara">
+    <Key>
+      <PropertyRef Name="NumaraID" />
+    </Key>
+    <Property Name="NumaraID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Numara1" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AyakkabiNumaras" Relationship="ayakkabiModel.FK_AyakkabiNumara_Numara" FromRole="Numara" ToRole="AyakkabiNumara" />
+  </EntityType>
+  <EntityType Name="Onerilenler">
+    <Key>
+      <PropertyRef Name="OnerilenlerID" />
+    </Key>
+    <Property Name="OnerilenlerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AyakkabiID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Ayakkabi" Relationship="ayakkabiModel.FK_Onerilenler_Ayakkabi" FromRole="Onerilenler" ToRole="Ayakkabi" />
+  </EntityType>
+  <EntityType Name="Sipari">
+    <Key>
+      <PropertyRef Name="SiparisID" />
+    </Key>
+    <Property Name="SiparisID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AyakkabiID" Type="Int32" Nullable="false" />
+    <Property Name="Adet" Type="Int32" Nullable="false" />
+    <Property Name="SiparisTarih" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Ayakkabi" Relationship="ayakkabiModel.FK_Siparis_Ayakkabi" FromRole="Sipari" ToRole="Ayakkabi" />
+    <NavigationProperty Name="Kullanici" Relationship="ayakkabiModel.FK_Siparis_Kullanici" FromRole="Sipari" ToRole="Kullanici" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Slider">
+    <Key>
+      <PropertyRef Name="SliderID" />
+    </Key>
+    <Property Name="SliderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Resimyolu" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Aciklama" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_AltKategori_Kategori">
+    <End Type="ayakkabiModel.Kategori" Role="Kategori" Multiplicity="1" />
+    <End Type="ayakkabiModel.AltKategori" Role="AltKategori" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="AltKategori">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ayakkabi_Kategori">
+    <End Type="ayakkabiModel.Kategori" Role="Kategori" Multiplicity="1" />
+    <End Type="ayakkabiModel.Ayakkabi" Role="Ayakkabi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="Ayakkabi">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AyakkabiNumara_Ayakkabi">
+    <End Type="ayakkabiModel.Ayakkabi" Role="Ayakkabi" Multiplicity="1" />
+    <End Type="ayakkabiModel.AyakkabiNumara" Role="AyakkabiNumara" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="AyakkabiNumara">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Indirim_Ayakkabi">
+    <End Type="ayakkabiModel.Ayakkabi" Role="Ayakkabi" Multiplicity="1" />
+    <End Type="ayakkabiModel.Indirim" Role="Indirim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="Indirim">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Onerilenler_Ayakkabi">
+    <End Type="ayakkabiModel.Ayakkabi" Role="Ayakkabi" Multiplicity="1" />
+    <End Type="ayakkabiModel.Onerilenler" Role="Onerilenler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="Onerilenler">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparis_Ayakkabi">
+    <End Type="ayakkabiModel.Ayakkabi" Role="Ayakkabi" Multiplicity="1" />
+    <End Type="ayakkabiModel.Sipari" Role="Sipari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ayakkabi">
+        <PropertyRef Name="AyakkabiID" />
+      </Principal>
+      <Dependent Role="Sipari">
+        <PropertyRef Name="AyakkabiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AyakkabiNumara_Numara">
+    <End Type="ayakkabiModel.Numara" Role="Numara" Multiplicity="1" />
+    <End Type="ayakkabiModel.AyakkabiNumara" Role="AyakkabiNumara" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Numara">
+        <PropertyRef Name="NumaraID" />
+      </Principal>
+      <Dependent Role="AyakkabiNumara">
+        <PropertyRef Name="NumaraID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparis_Kullanici">
+    <End Type="ayakkabiModel.Kullanici" Role="Kullanici" Multiplicity="1" />
+    <End Type="ayakkabiModel.Sipari" Role="Sipari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Sipari">
+        <PropertyRef Name="KullaniciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

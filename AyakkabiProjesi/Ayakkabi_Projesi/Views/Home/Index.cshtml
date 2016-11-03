@@ -1,0 +1,320 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="cols-md-12">
+            <div class="resimler-div">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        @{int say = 0;}
+                        @foreach (var item in ViewBag.Sliderim)
+                        {
+                            if (say == 0)
+                            {
+                        <div class="item active">
+                            
+                            <center>
+                                    <img src="~/images/@item.Resimyolu" alt="Chania" class="resimler">
+                                <div class="carousel-caption">
+                                    <h4>@item.Aciklama</h4>
+                                </div>
+                                </center>
+                            </div>
+                            }
+                            else
+                            {
+                                <div class="item">
+                                    
+                                    <center>
+                                        <img src="~/images/@item.Resimyolu" alt="Chania" class="resimler">
+                                        <div class="carousel-caption">
+                                            <h4>@item.Aciklama</h4>
+                                        </div>
+                                    </center>
+                                </div>
+
+                            }
+                            say=say+1; 
+                        }
+
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="left-sidebar">
+                    <br />
+                    <h2>Kategoriler</h2>
+                    <div class="panel-group category-products" id="accordian">
+
+                        <!--category-productsr-->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordian" href="#erkek">
+                                        <span class="badge pull-right"><i class="fa fa-plus"></i></span>
+                                        Erkek
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="erkek" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <ul>
+                                        <li><a href="/Erkek/Index">Ayakkabı </a></li>
+                                        <li><a href="/Erkek/Sneaker">Sneaker </a></li>
+                                        <li><a href="/Erkek/Spor">Spor </a></li>
+                                        <li><a href="/Erkek/Bot">Bot</a></li>
+                                        <li><a href="/Erkek/Kundura">Kundura </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordian" href="#kadın">
+                                        <span class="badge pull-right"><i class="fa fa-plus"></i></span>
+                                        Kadın
+                                    </a>
+                                </h4>
+                            </div>
+
+                            <div id="kadın" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <ul>
+                                        <li><a href="/Kadin/Index">Ayakkabı</a></li>
+                                        <li><a href="/Kadin/Spor">Spor</a></li>
+                                        <li><a href="/Kadin/Babet">Babet</a></li>
+                                        <li><a href="/Kadin/Cizme">Çizme</a></li>
+                                        <li><a href="/Kadin/Bot">Bot</a></li>
+                                        <li><a href="/Kadin/Terlik">Terlik</a></li>
+                                        <li><a href="/Kadin/Topuklu">Topuklu</a></li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordian" href="#erkekcocuk">
+                                        <span class="badge pull-right"><i class="fa fa-plus"></i></span>
+                                        Erkek Çocuk
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="erkekcocuk" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <ul>
+                                        <li><a href="/ErkekCocuk/Index">Tüm Ayakakkabılar </a></li>
+                                        <li><a href="/ErkekCocuk/Sneaker">Sneaker </a></li>
+                                        <li><a href="/ErkekCocuk/Spor">Spor </a></li>
+                                        <li><a href="/ErkekCocuk/Bot">Bot</a></li>
+                                        <li><a href="/ErkekCocuk/Terlik">Terlik </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordian" href="#kizcocuk">
+                                        <span class="badge pull-right"><i class="fa fa-plus"></i></span>
+                                        Kız Çocuk
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="kizcocuk" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <ul>
+                                        <li><a href="/KizCocuk/Index">Tüm Ayakakkabılar </a></li>
+                                        <li><a href="/KizCocuk/Babet">Babet </a></li>
+                                        <li><a href="/KizCocuk/Spor">Spor </a></li>
+                                        <li><a href="/KizCocuk/Bot">Bot</a></li>
+                                        <li><a href="/KizCocuk/Terlik">Terlik</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title"><a href="/Outlet/Index">Outlet</a></h4>
+                            </div>
+                        </div>
+
+                    </div><!--/category-products-->
+
+                </div>
+            </div>
+
+            <div class="col-sm-9 padding-right">
+                <div class="features_items">
+                    <!--features_items-->
+                 
+                    @foreach (var a in ViewBag.Ayakkabilar)
+                    {
+                        if (a.Fiyat > 200)
+                        {
+                            <div class="col-sm-4">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img width="1250" height="270" src="/images/@a.Resimyolu" alt="" />
+                                            <h2>@string.Format("{0} TL", a.Fiyat)</h2>
+                                            <p>@string.Format("{0} - {1}", a.Marka, a.Model)</p>
+                                            <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>@a.Fiyat TL</h2>
+                                                <p>@string.Format("{0} - {1}", a.Marka, a.Model)</p>
+                                                <a href="/Home/SepeteEkle/@a.AyakkabiID" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                                @Html.ActionLink("İncele" ,"Detay","Home",new {detayid=@a.AyakkabiID,@class= "btn btn-default add-to-cart" },null)<i class="fa fa-shopping-cart"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                </div>
+                            </div>
+
+                        }
+
+                    }
+
+                </div><!--features_items-->
+
+                <div class="category-tab">
+                    <!--category-tab-->
+                    <div class="col-sm-12">
+                        <ul class="nav nav-tabs">
+                            <li class="indirimdekiler"><a href="#indirimdekiler" data-toggle="tab">İndirimdekiler</a></li>
+                            <li><a href="#gununfirsatlari" data-toggle="tab">Günün Fırsatları</a></li>
+
+
+                            <li><a href="#yeniurunler" data-toggle="tab">Yeni Ürünler</a></li>
+                        </ul>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-pane fade active in" id="indirimdekiler">
+                            @foreach (var i in ViewBag.indirimdekiler)
+                            {
+                                int indirimliFiyat =
+                                    i.Ayakkabi.Fiyat - ((i.Ayakkabi.Fiyat * i.IndirimOrani) / 100);
+                                <div class="col-sm-3">
+                                    <div class="product-image-wrapper">
+                                        <div class="single-products">
+                                            <div class="productinfo text-center">
+                                                <img width="1250" height="270" src="/images/@i.Ayakkabi.Resimyolu" alt="" />
+                                                <h2>@string.Format("{0} TL", indirimliFiyat)</h2>
+                                                <p>@string.Format("{0} - {1}", i.Ayakkabi.Marka, i.Ayakkabi.Model)</p>
+                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+
+
+
+                        <div class="tab-pane fade" id="gununfirsatlari">
+                            @{int deneme = 0;}
+                            @foreach (var item in ViewBag.gununfirsati)
+                            {
+
+                                if (item.AltKategoriID == 7 && deneme < 4)
+                                {
+                                    deneme++;
+                                    <div class="col-sm-3">
+                                        <div class="product-image-wrapper">
+                                            <div class="single-products">
+                                                <div class="productinfo text-center">
+                                                    <img width="1250" height="270" src="/images/@item.Resimyolu" alt="" />
+                                                    <h2>@item.Fiyat TL</h2>
+                                                    <p>@string.Format("{0} - {1}", item.Marka, item.Model)</p>
+                                                    <a href="/Home/Detay" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                                
+                            }
+
+                        </div>
+
+
+                        <div class="tab-pane fade" id="yeniurunler">
+
+                            @foreach (var item in ViewBag.soneklenenler)
+                            {
+
+
+                                <div class="col-sm-3">
+                                    <div class="product-image-wrapper">
+                                        <div class="single-products">
+                                            <div class="productinfo text-center">
+                                                <img width="1250" height="270" src="/images/@item.Resimyolu" alt="" />
+                                                <h2>@item.Fiyat TL</h2>
+                                                <p>@string.Format("{0} - {1}", item.Marka, item.Model)</p>
+                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+                    </div><!--/category-tab-->
+                    <div class="recommended_items">
+                        <!--recommended_items-->
+
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+</section>
+
+
